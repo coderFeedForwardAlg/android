@@ -1,0 +1,16 @@
+<resources>
+    <string name="add">ADD</string>
+    <string name="app_name">passDataCleanup</string>
+    <string name="sub">SUB ONE</string>
+    <string name="sec">GO TO RANDOM</string>
+    <string name="rand">GET RANDOM NUMBER</string>
+    <string name="back">SEND DATA BACK</string>
+    <string name="add_subtract">ADD SUBTRACT</string>
+    <string name="random">RANDOM</string>
+    <string name="gotData">GOT THE DATA</string>
+    <string name="Name">Name</string>
+    <string name="saveData">SAVE THE DATA</string>
+    <string name="empty_file">EMPTY FILE</string>
+    <string name="input">INPUT</string>
+    <string name="disp">DISPLAY</string>
+</resources>
